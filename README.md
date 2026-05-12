@@ -17,7 +17,9 @@
 📫 **Connect with me:**
 - **Email:** aayushikhandelwal262004@gmail.com
 - **Location:** Noida, U.P
-- **LinkedIn:** Add your LinkedIn profile link here
+- **LinkedIn:** www.linkedin.com/in/
+aayushi-khandelwal-69a66b20b
+
 
 💡 **Currently Learning:** Advanced SQL & Python for Data Analysis
 
